@@ -1,0 +1,61 @@
+
+.img2:hover  img {
+-moz-transform: scale(1.04);
+-webkit-transform: scale(1.04);
+-o-transform: scale(1.04);
+-ms-transform: scale(1.04);
+transform: scale(1.04);
+
+
+text-decoration: none;
+text-shadow: none;
+-moz-box-shadow: 1em 1em 1em -0.5em rgba(0,0,6,0.5);
+-webkid-box-shadow: 1em 1em 1em -0.5em rgba(0,0,6,0.5);
+box-shadow: 1em 1em 1em -0.5em rgba(0,0,6,0.5);
+}
+
+.img2 img {
+-webkit-transition: all 0.4s ease;
+-moz-transition: all 0.4s ease;
+transition: all 0.4s ease;
+width: 568px;
+
+border: 1px solid #d0d79a;
+-moz-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+
+}
+
+.img3:hover  img {
+-moz-transform: scale(1.04);
+-webkit-transform: scale(1.04);
+-o-transform: scale(1.04);
+-ms-transform: scale(1.04);
+transform: scale(1.04);
+
+
+text-decoration: none;
+text-shadow: none;
+-moz-box-shadow: 1em 1em 1em -0.5em rgba(0,0,6,0.5);
+-webkid-box-shadow: 1em 1em 1em -0.5em rgba(0,0,6,0.5);
+box-shadow: 1em 1em 1em -0.5em rgba(0,0,6,0.5);
+}
+
+.img3 img {
+-webkit-transition: all 0.4s ease;
+-moz-transition: all 0.4s ease;
+transition: all 0.4s ease;
+width: 568px;
+
+border: 1px solid #85bdd3;
+-moz-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+
+}
+

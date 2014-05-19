@@ -1,0 +1,20 @@
+#shadow{
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+}
+.call span, .inf span, .inf2 span, .partners span{
+	top:-10px;
+}
+.two span{
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+}
+.f_button{
+	zoom:1;
+}
+.left_menu a {
+	zoom:1;
+}
+.crop_dottedDiv div{
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+}
+
+
